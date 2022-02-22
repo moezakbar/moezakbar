@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moezakbar
 - 👀 I’m interested in computer science, community service, basketball, and soccer.
-- 🌱 I’m currently learning computer science fro Queen's University
+- 🌱 I’m currently learning computer science from Queen's University
 - 📫 How to reach me - email: moezakbar@hotmail.com
 
 <!---
